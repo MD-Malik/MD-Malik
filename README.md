@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohd Shahrukh
+- #👋 Hi, I’m Mohd Shahrukh
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me email- md.shahrukhmalik2012@gmail.com
