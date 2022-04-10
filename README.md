@@ -1,4 +1,6 @@
- Hii, I'm Mohd Shahrukh</h1>
+@@ -1,14 +1,16 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px" >
+  , I'm Mohd Shahrukh</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **MERN stack development**
